@@ -3,7 +3,7 @@
 A simple personal dashboard I made for myself.
 
 I wanted one place where I could see my tasks, projects, coding time, study time, notes, and my current goal.
-
+https://red0x-106.github.io/Personal-Dashboard/
 ## What it has
 
 - Live clock and date
